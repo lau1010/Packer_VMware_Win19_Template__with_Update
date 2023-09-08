@@ -20,7 +20,7 @@ Scripts:
 * [scripts/enable-winrm.ps1](./scripts/enable-winrm.ps1) --> Script to Enable WinRM
 * [scripts/install-vm-tools.cmd](./scripts/install-vm-tools.cmd) --> Script to Install VMware Tools
 * [scripts/set-temp.ps1](./scripts/set-temp.ps1) --> Script to Set Temp Folders
-* [scripts/build.ps1](./scripts/build.ps1) --> Script to disable TLS 1.0 & 1.1 and Windows Firewall
+* [scripts/build.ps1](./scripts/build.ps1) --> Script to disable SSL 1.0 2.0 3.0 TLS 1.0 & 1.1 and Windows Firewall
 
 Tested with **VMware ESX 6.7** and **VMware ESX 7.0** | User: Administrator | Password: your_password
 
